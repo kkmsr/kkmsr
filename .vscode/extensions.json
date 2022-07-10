@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "davidanson.vscode-markdownlint",
+    "shd101wyy.markdown-preview-enhanced",
+    "bierner.markdown-mermaid",
+    "editorconfig.editorconfig",
+    "mubaidr.vuejs-extension-pack",
+    "redhat.vscode-yaml"
+  ]
+}

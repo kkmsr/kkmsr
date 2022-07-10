@@ -1,0 +1,9 @@
+{
+  "eslint.workingDirectories": [
+    "./vue2"
+  ],
+  "cSpell.words": [
+    "vuejs",
+    "vuex"
+  ],
+}
